@@ -1,5 +1,5 @@
-site_name: 中国法定民政登记文档结构特征与智能化识别版式规范指南
-site_url: https://wysmks.readthedocs.io/zh-cn/latest/
+site_name: 离婚证样本，离婚证制作设计工艺展示
+site_url: https://kouyac.github.io/wysmks/
 theme:
   name: material
   custom_dir: overrides
